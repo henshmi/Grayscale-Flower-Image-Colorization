@@ -36,138 +36,137 @@ The output images became more sharp and clear, the results were way over our exp
 <hr>
 
 * <b>Results:</b><br>
-  <table style="float:left">
-      <tr>
-          <th style=\"text-align:center\">Input</th>
-          <th style=\"text-align:center\">Model A</th>
-          <th style=\"text-align:center\">Model B</th>
-          <th style=\"text-align:center\">Model C</th>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/12_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/12_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/12_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/12_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/19_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/19_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/19_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/19_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/20_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/20_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/20_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/20_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/24_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/24_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/24_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/24_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/29_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/29_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/29_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/29_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/94_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/94_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/94_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/94_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/101_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/101_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/101_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/101_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/103_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/103_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/103_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/103_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/160_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/160_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/160_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/160_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/202_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/202_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/202_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/202_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/322_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/322_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/322_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/322_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/341_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/341_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/341_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/341_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/342_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/342_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/342_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/342_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/399_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/399_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/399_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/399_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/400_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/400_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/400_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/400_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/790_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/790_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/790_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/790_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/850_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/850_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/850_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/850_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/900_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/900_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/900_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/900_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/920_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/920_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/920_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/920_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/2065_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/2065_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/2065_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/2065_prediction.png\"></img></td>
-      </tr>
-      <tr>
-          <td><img src=\"b_model_examples/2058_x_test.png\"></img></td>
-          <td><img src=\"b_model_examples/2058_prediction.png\"></img></td>
-          <td><img src=\"c_model_examples/2058_prediction.png\"></img></td>
-          <td><img src=\"d_model_examples/2058_prediction.png\"></img></td>
-      </tr>
-  </table>
-
+<table style="float:left">
+    <tr>
+        <th style="text-align:center">Input</th>
+        <th style="text-align:center">Model A</th>
+        <th style="text-align:center">Model B</th>
+        <th style="text-align:center">Model C</th>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/12_x_test.png"></img></td>
+        <td><img src="b_model_examples/12_prediction.png"></img></td>
+        <td><img src="c_model_examples/12_prediction.png"></img></td>
+        <td><img src="d_model_examples/12_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/19_x_test.png"></img></td>
+        <td><img src="b_model_examples/19_prediction.png"></img></td>
+        <td><img src="c_model_examples/19_prediction.png"></img></td>
+        <td><img src="d_model_examples/19_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/20_x_test.png"></img></td>
+        <td><img src="b_model_examples/20_prediction.png"></img></td>
+        <td><img src="c_model_examples/20_prediction.png"></img></td>
+        <td><img src="d_model_examples/20_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/24_x_test.png"></img></td>
+        <td><img src="b_model_examples/24_prediction.png"></img></td>
+        <td><img src="c_model_examples/24_prediction.png"></img></td>
+        <td><img src="d_model_examples/24_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/29_x_test.png"></img></td>
+        <td><img src="b_model_examples/29_prediction.png"></img></td>
+        <td><img src="c_model_examples/29_prediction.png"></img></td>
+        <td><img src="d_model_examples/29_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/94_x_test.png"></img></td>
+        <td><img src="b_model_examples/94_prediction.png"></img></td>
+        <td><img src="c_model_examples/94_prediction.png"></img></td>
+        <td><img src="d_model_examples/94_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/101_x_test.png"></img></td>
+        <td><img src="b_model_examples/101_prediction.png"></img></td>
+        <td><img src="c_model_examples/101_prediction.png"></img></td>
+        <td><img src="d_model_examples/101_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/103_x_test.png"></img></td>
+        <td><img src="b_model_examples/103_prediction.png"></img></td>
+        <td><img src="c_model_examples/103_prediction.png"></img></td>
+        <td><img src="d_model_examples/103_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/160_x_test.png"></img></td>
+        <td><img src="b_model_examples/160_prediction.png"></img></td>
+        <td><img src="c_model_examples/160_prediction.png"></img></td>
+        <td><img src="d_model_examples/160_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/202_x_test.png"></img></td>
+        <td><img src="b_model_examples/202_prediction.png"></img></td>
+        <td><img src="c_model_examples/202_prediction.png"></img></td>
+        <td><img src="d_model_examples/202_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/322_x_test.png"></img></td>
+        <td><img src="b_model_examples/322_prediction.png"></img></td>
+        <td><img src="c_model_examples/322_prediction.png"></img></td>
+        <td><img src="d_model_examples/322_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/341_x_test.png"></img></td>
+        <td><img src="b_model_examples/341_prediction.png"></img></td>
+        <td><img src="c_model_examples/341_prediction.png"></img></td>
+        <td><img src="d_model_examples/341_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/342_x_test.png"></img></td>
+        <td><img src="b_model_examples/342_prediction.png"></img></td>
+        <td><img src="c_model_examples/342_prediction.png"></img></td>
+        <td><img src="d_model_examples/342_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/399_x_test.png"></img></td>
+        <td><img src="b_model_examples/399_prediction.png"></img></td>
+        <td><img src="c_model_examples/399_prediction.png"></img></td>
+        <td><img src="d_model_examples/399_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/400_x_test.png"></img></td>
+        <td><img src="b_model_examples/400_prediction.png"></img></td>
+        <td><img src="c_model_examples/400_prediction.png"></img></td>
+        <td><img src="d_model_examples/400_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/790_x_test.png"></img></td>
+        <td><img src="b_model_examples/790_prediction.png"></img></td>
+        <td><img src="c_model_examples/790_prediction.png"></img></td>
+        <td><img src="d_model_examples/790_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/850_x_test.png"></img></td>
+        <td><img src="b_model_examples/850_prediction.png"></img></td>
+        <td><img src="c_model_examples/850_prediction.png"></img></td>
+        <td><img src="d_model_examples/850_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/900_x_test.png"></img></td>
+        <td><img src="b_model_examples/900_prediction.png"></img></td>
+        <td><img src="c_model_examples/900_prediction.png"></img></td>
+        <td><img src="d_model_examples/900_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/920_x_test.png"></img></td>
+        <td><img src="b_model_examples/920_prediction.png"></img></td>
+        <td><img src="c_model_examples/920_prediction.png"></img></td>
+        <td><img src="d_model_examples/920_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/2065_x_test.png"></img></td>
+        <td><img src="b_model_examples/2065_prediction.png"></img></td>
+        <td><img src="c_model_examples/2065_prediction.png"></img></td>
+        <td><img src="d_model_examples/2065_prediction.png"></img></td>
+    </tr>
+    <tr>
+        <td><img src="b_model_examples/2058_x_test.png"></img></td>
+        <td><img src="b_model_examples/2058_prediction.png"></img></td>
+        <td><img src="c_model_examples/2058_prediction.png"></img></td>
+        <td><img src="d_model_examples/2058_prediction.png"></img></td>
+    </tr>
+</table>
