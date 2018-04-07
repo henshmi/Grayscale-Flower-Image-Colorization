@@ -35,7 +35,7 @@ We then added more convolutional layers to deepen our network and we increased t
 The output images became more sharp and clear, the results were way over our expectations.
 <hr>
 
-* <b>Results:</b><br>
+* <b>Results</b><br>
 <table style="float:left">
     <tr>
         <th style="text-align:center">Input</th>
